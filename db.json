@@ -8,6 +8,20 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "ufs" : [
+    {
+      "id": "sc",
+      "title": "Santa Catarina"
+    },
+    {
+      "id": "rs",
+      "title": "Rio Grande do Sul"
+    },
+    {
+      "id": "pr",
+      "title": "Paraná"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
